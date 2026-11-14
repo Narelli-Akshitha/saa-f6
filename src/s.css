@@ -1,0 +1,11 @@
+.s{
+    background-color: brown;
+    margin: 10px;
+}
+.card{
+    background-color: rgb(236, 136, 181);
+    border-radius: 8px;
+    padding: 5px;
+    width: 250px;
+    margin: 5px;
+}
